@@ -14,9 +14,9 @@ KITTI       https://drive.google.com/file/d/1KmYqr4a7Q2ETPvyGv9M3dYCJnZkO-WTp/vi
 
 ### Download EGM
 
-CamVid	    https://drive.google.com/file/d/1BUVrSmYKEteW0B6Glbmlx6DW-mk1zqTo/view?usp=sharing
+CamVid	    https://drive.google.com/file/d/1l47JICRDJbSTrUxPaoNrJzcO0vsDrIyD/view?usp=sharing
 
-KITTI	 https://drive.google.com/file/d/1KmYqr4a7Q2ETPvyGv9M3dYCJnZkO-WTp/view?usp=sharing
+KITTI	 https://drive.google.com/file/d/1apT2Np2iJGqm3fM_9sa30yFXW6mZspT4/view?usp=sharing
 
 
 
