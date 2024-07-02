@@ -22,7 +22,7 @@ KITTI	 https://drive.google.com/file/d/1apT2Np2iJGqm3fM_9sa30yFXW6mZspT4/view?us
 
 ## Motion Blurred Dataset
 
-CamVid      https://drive.google.com/file/d/1_oxn93heU3hI94959VmAv_mZyMU0ljUz/view?usp=sharing
+CamVid      https://drive.google.com/file/d/16ZNVp1QHO487-r0zz54jdVepuswTJ9SK/view?usp=sharing
 
 KITTI       https://drive.google.com/file/d/1sNi1c4nn-NEp1dscm8QTGarF2nsqZrwA/view?usp=sharing
 
