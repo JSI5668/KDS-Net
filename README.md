@@ -12,7 +12,7 @@ KITTI       https://drive.google.com/file/d/1KmYqr4a7Q2ETPvyGv9M3dYCJnZkO-WTp/vi
 
 
 
-### Download EGM
+### Download EMG
 
 CamVid	    https://drive.google.com/file/d/1sPTrfUpIGP40T0cnneNydxKhCphjCsFt/view?usp=sharing
 
