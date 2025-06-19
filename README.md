@@ -6,7 +6,7 @@
 
 ### Download KDS-Net
 
-CamVid      https://drive.google.com/file/d/1_oxn93heU3hI94959VmAv_mZyMU0ljUz/view?usp=sharing
+CamVid      [https://drive.google.com/file/d/1_oxn93heU3hI94959VmAv_mZyMU0ljUz/view?usp=sharing](https://drive.google.com/file/d/1c9ro5Nyu6gqYIAGqbX0YHIV6ZT6V8swV/view?usp=sharing)
 
 KITTI       https://drive.google.com/file/d/1KmYqr4a7Q2ETPvyGv9M3dYCJnZkO-WTp/view?usp=sharing
 
