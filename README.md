@@ -4,21 +4,21 @@
 
 ## Segmentation Model
 
-### KDS-Net Training
+### KDS-Net Training Script
 
 Teacher :     main_EMG_training.py
 
 Student :    main_KDS-Net_withcodebook.py
 
 
-### Download KDS-Net Teacher Model
+### Download Pretrained Weight for KDS-Net Teacher Model
 
 CamVid      https://drive.google.com/file/d/1tkE2J4FbjW6dLT1DinCyN7cxBjrjXi4L/view?usp=sharing
 
 KITTI       https://drive.google.com/file/d/1_bibWvvHB53FZgClslj4-zlkdVY5DXDW/view?usp=sharing
 
 
-### Download KDS-Net Student Model
+### Download Pretrained Weight for KDS-Net Student Model
 
 CamVid      [https://drive.google.com/file/d/1_oxn93heU3hI94959VmAv_mZyMU0ljUz/view?usp=sharing](https://drive.google.com/file/d/1c9ro5Nyu6gqYIAGqbX0YHIV6ZT6V8swV/view?usp=sharing)
 
@@ -26,7 +26,7 @@ KITTI       [https://drive.google.com/file/d/1KmYqr4a7Q2ETPvyGv9M3dYCJnZkO-WTp/v
 
 
 
-### Download EMG
+### Download Pretrained Weight for EMG
 
 CamVid	    [https://drive.google.com/file/d/1sPTrfUpIGP40T0cnneNydxKhCphjCsFt/view?usp=sharing](https://drive.google.com/file/d/14VVZhMdaQ7XPPm0cH9rf2zZ1KXhhBX24/view?usp=sharing)
 
