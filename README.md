@@ -6,9 +6,9 @@
 
 ### KDS-Net Training
 
-Teacher     main_EMG_training.py
+Teacher :     main_EMG_training.py
 
-Student     main_KDS-Net_withcodebook.py
+Student :    main_KDS-Net_withcodebook.py
 
 
 ### Download KDS-Net Teacher Model
